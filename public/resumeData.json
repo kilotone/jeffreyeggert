@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name":"Jeff Eggert",
+    "occupation":"Full Stack Automation Engineer",
+    "description":"Videogamer, Programmer, and Automation Engineer",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "eggert.jeff@gmail.com",
+    "phone": "973-727-00722",
+    "address":{
+      "street":"East Main Street",
+      "city":"Denville",
+      "state":"New Jersey",
+      "zip": "07834"
+    },
+    "website": "http://www.jeffreyeggert.com",
+    "resumedownload":"http://www.jeffreyeggert.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/Kilotone",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/JeffEggert",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jeffeggertjr/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/perry.b.chestwater/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/kilotone",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Solutions-focused self-taught Senior Quality Assurance Automation Engineer, with full stack and hands-on experience in both the proprietary and public software realm. Proven ability to successfully implement an organization's critical requirements, identify product and strategy deficiencies and highlight potential opportunities. Successful at applying solutions for increasing reliability and therefore improving productivity, while maintaining a broad knowledge base available as reference to peers, employees, and clients. Main tasking includes installation, configuration, management, testing, troubleshooting, design and support. Expert at knowledge dissemination and tracking",
+    "education":[
+      {
+        "school":"Centenary College",
+        "degree":"Bachelor of Arts, Computer Graphics",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"IPsoft, Inc",
+        "title":"Senior Full Stack Automation Engineer",
+        "years":"September 2015 - Present",
+        "description":"Manage automation code bases with Atlassian Suite; qualifying code organization and usage by test coverage, code quality, black box testing, and assertive language specs. 1Desk and IPcenter automations generated utilize all a platitude of software platforms and integrations to implement full solutions for artificial intelligence, dynamic, genetic, and iterative learning. Development cycles are tracked via Atlassian via Jira to provide oversight for continual improvement. Client automation purposes are catered and continually integrated for respective environment types."
+      },
+      {
+        "company":"Advanced Systems Concepts, LLC",
+        "title":"System Administrator, Quality Assurance Engineer, Automation Engineer",
+        "years":"November 2010 - September 2015",
+        "description":"Remote and local assist, and diagnose as well as consult with end-users in their usage of the Activebatch job scheduling workload automation tool. This tool encompasses software tasks and procedures into one centralized location, and streamlines workflow processes."
+      },
+      {
+        "company":"Northrup Grumman",
+        "title":"System Administrator",
+        "years":"November 2008 - March 2010",
+        "description":"Maintain systems stability and performance for Major Global Department of Defense Classified Project. Supported and installed a wide array of systems, devices, workstations, and peripheral hardware. Monitor systems health and performance, prepare data requests, and troubleshoot network and systems issues."
+      },
+      {
+        "company":"Core Technology Solution",
+        "title":"Technical Support Agent",
+        "years":"March 2008 - September 2008",
+        "description":"Remote as well as on-site support and troubleshooting of multiple hardware and software installations."
+      },
+      {
+        "company":"Centenary College",
+        "title":"Technical Support Agent",
+        "years":"2006 - 2008",
+        "description":"Provide comprehensive system and end-user support of campus technology; configuration, maintenance, repair. Extend normal classroom and technology support by providing training for faculty users and students, and administration for Centenary College."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Resume Builder",
+        "category":"Converted resume into a built and hosted format.",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.jeffreyeggert.com"
+      },
+      {
+        "title":"Workmeh",
+        "category":"Mind-Workspace Tech Blog",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.workmeh.com"
+      }
+    ]
+  }
+}
