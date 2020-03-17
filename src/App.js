@@ -10,6 +10,16 @@ import Contact from './Components/Contact';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
 
+import * as Icons from "@fortawesome/free-brands-svg-icons";
+import { library } from '@fortawesome/fontawesome-svg-core';
+const iconList = Object
+  .keys(Icons)
+  .filter(key => key !== "fas" && key !== "prefix" )
+  .map(icon => Icons[icon])
+
+library.add(...iconList)
+
+
 class App extends Component {
 
   constructor(props){

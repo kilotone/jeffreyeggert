@@ -20,34 +20,34 @@
       {
         "name":"facebook",
         "url":"https://www.facebook.com/Kilotone",
-        "className":"fa fa-facebook"
+        "className":"facebook"
       },
       {
         "name":"twitter",
         "url":"https://twitter.com/JeffEggert",
-        "className":"fa fa-twitter"
+        "className":"twitter"
       },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/jeffeggertjr/",
-        "className":"fa fa-linkedin"
+        "className":"linkedin"
       },
       {
         "name":"instagram",
         "url":"https://www.instagram.com/perry.b.chestwater/",
-        "className":"fa fa-instagram"
+        "className":"instagram"
       },
       {
         "name":"github",
         "url":"https://github.com/kilotone",
-        "className":"fa fa-github"
+        "className":"github"
       },
       {
         "name":"hackerrank",
         "url":"https://www.hackerrank.com/eggert_jeff",
-        "className":"fa fa-hackerrank"
+        "className":"hackerrank"
       }
-      ]
+    ]
   },
   "resume":{
     "skillmessage":"Solutions-focused self-taught Senior Quality Assurance Automation Engineer, with full stack and hands-on experience in both the proprietary and public software realm. Proven ability to successfully implement an organization's critical requirements, identify product and strategy deficiencies and highlight potential opportunities. Successful at applying solutions for increasing reliability and therefore improving productivity, while maintaining a broad knowledge base available as reference to peers, employees, and clients. Main tasking includes installation, configuration, management, testing, troubleshooting, design and support. Expert at knowledge dissemination and tracking",
