@@ -2,12 +2,12 @@
   "main": {
     "name":"Jeff Eggert",
     "occupation":"Full Stack Automation Engineer",
-    "description":"Videogamer, Programmer, and Automation Engineer",
+    "description":"",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"I went to Centenary College, to pursue a degree in what I thought would be my future; an artist by contract. It was there I found the allure of tinkering with emerging technologies, and the realized the full scope of resources available by Centenary College, allowed me to start my pursuit into what is now a full software development, and automation engineering based career.",
+    "contactmessage":"Please reach out to me on Linkedin for Professional Inquiries, or my email for others. I am always traversing the various other platforms listed as well.",
     "email": "eggert.jeff@gmail.com",
-    "phone": "973-727-00722",
+    "phone": "973-727-0722",
     "address":{
       "street":"East Main Street",
       "city":"Denville",
@@ -41,8 +41,13 @@
         "name":"github",
         "url":"https://github.com/kilotone",
         "className":"fa fa-github"
+      },
+      {
+        "name":"hackerrank",
+        "url":"https://www.hackerrank.com/eggert_jeff",
+        "className":"fa fa-hackerrank"
       }
-    ]
+      ]
   },
   "resume":{
     "skillmessage":"Solutions-focused self-taught Senior Quality Assurance Automation Engineer, with full stack and hands-on experience in both the proprietary and public software realm. Proven ability to successfully implement an organization's critical requirements, identify product and strategy deficiencies and highlight potential opportunities. Successful at applying solutions for increasing reliability and therefore improving productivity, while maintaining a broad knowledge base available as reference to peers, employees, and clients. Main tasking includes installation, configuration, management, testing, troubleshooting, design and support. Expert at knowledge dissemination and tracking",
@@ -89,15 +94,24 @@
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"60%",
+        "types":[
+          "Source Control"
+        ]
       },
       {
         "name":"Illustrator",
-        "level":"55%"
+        "level":"55%",
+        "type":[
+          "Graphics"
+        ]
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"50%",
+        "type:":[
+          "Scripting"
+        ]
       },
       {
         "name":"CSS",
@@ -106,10 +120,6 @@
       {
         "name":"HTML5",
         "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
       },
       {
         "name":"MongoDB",
@@ -122,13 +132,13 @@
       {
         "title":"Resume Builder",
         "category":"Converted resume into a built and hosted format.",
-        "image":"canadian-wanderlust.jpg",
+        "image":"splash-bg.jpg",
         "url":"https://www.jeffreyeggert.com"
       },
       {
         "title":"Workmeh",
         "category":"Mind-Workspace Tech Blog",
-        "image":"canadian-wanderlust.jpg",
+        "image":"splash-bg.jpg",
         "url":"https://www.workmeh.com"
       }
     ]

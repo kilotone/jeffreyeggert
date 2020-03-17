@@ -564,6 +564,9 @@
 .fa-facebook-square:before {
   content: "\f082";
 }
+.fa-hackerrank-square:before {
+  content: "\f082";
+}
 .fa-camera-retro:before {
   content: "\f083";
 }
@@ -635,6 +638,9 @@
   content: "\f09a";
 }
 .fa-github:before {
+  content: "\f09b";
+}
+.fa-hackerrank:before {
   content: "\f09b";
 }
 .fa-unlock:before {
@@ -950,6 +956,9 @@
   content: "\f112";
 }
 .fa-github-alt:before {
+  content: "\f113";
+}
+.fa-hackerrank-alt:before {
   content: "\f113";
 }
 .fa-folder-o:before {
