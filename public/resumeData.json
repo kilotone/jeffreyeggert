@@ -46,6 +46,11 @@
         "name":"hackerrank",
         "url":"https://www.hackerrank.com/eggert_jeff",
         "className":"hackerrank"
+      },
+      {  
+        "name":"twitch",
+        "url":"https://www.twitch.tv/kilotone",
+        "className":"twitch"
       }
     ]
   },
@@ -56,7 +61,7 @@
         "school":"Centenary College",
         "degree":"Bachelor of Arts, Computer Graphics",
         "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Computer Graphics, with respect to 3d rendering, 2d Illustration, and Image alteration. Photoshop Creative suite, and other toolings."
       }
     ],
     "work":[
