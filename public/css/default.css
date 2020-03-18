@@ -2,8 +2,8 @@
 /* @fortawesome/fontawesome-free*/
 @import url("fonts.css");
 @import url("fontello/css/fontello.css");
-@import url("../../node_modules/@fortawesome/fontawesome-free/css/fontawesome.css");
-@import url("../../node_modules/@fortawesome/fontawesome-free/css/brands.css");
+@import url("fontawesome-free/fontawesome.css");
+@import url("fontawesome-free/brands.css");
 
 
 html, body, div, span, object, iframe,
