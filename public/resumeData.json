@@ -51,6 +51,11 @@
         "name":"twitch",
         "url":"https://www.twitch.tv/kilotone",
         "className":"twitch"
+      },
+      {
+        "name":"discord",
+        "url":"https://www.discord.gg/WEC9GP5",
+        "className":"discord"
       }
     ]
   },
@@ -107,20 +112,24 @@
       {
         "name":"Illustrator",
         "level":"55%",
-        "type":[
+        "types":[
           "Graphics"
         ]
       },
       {
         "name":"ReactJs",
-        "level":"50%",
-        "type:":[
+        "level":"80%",
+        "types:":[
           "Scripting"
         ]
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"90%",
+        "types":[
+        
+        ]
+
       },
       {
         "name":"HTML5",
