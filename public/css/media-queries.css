@@ -356,7 +356,8 @@
       margin: 0 auto 24px auto;
    }
    header .banner-text h3 {
-      font: 14px/1.9em 'librebaskerville-regular', sans-serif;
+      font: 30px/1.1em 'opensans-bold', sans-serif;
+      -webkit-text-stroke: 2px green;
       width: 90%;
    }
   
