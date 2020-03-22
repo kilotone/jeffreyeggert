@@ -1,18 +1,17 @@
 {
   "main": {
     "name":"Jeff Eggert",
-    "occupation":"Full Stack Automation Engineer",
-    "description":"",
+    "occupation":"Full Stack Software Engineer",
     "image":"profilepic.jpg",
-    "bio":"I went to Centenary College, to pursue a degree in what I thought would be my future; an artist by contract. It was there I found the allure of tinkering with emerging technologies, and the realized the full scope of resources available by Centenary College, allowed me to start my pursuit into what is now a full software development, and automation engineering based career.",
-    "contactmessage":"Please reach out to me on Linkedin for Professional Inquiries, or my email for others. I am always traversing the various other platforms listed as well.",
+    "bio":"Attended Centenary College in west New Jersey, to pursue a degree in graphic arts; and pursue a career in contractually publishing works. It was there I found the allure of tinkering with emerging technologies, and the realized the full scope of resources available by Centenary College, allowed me to start my pursuit into what is now a full software development, and automation engineering based career.",
+    "contactmessage":"Access to Personal Ticketing forthcoming.",
     "email": "eggert.jeff@gmail.com",
     "phone": "973-727-0722",
     "address":{
-      "street":"East Main Street",
-      "city":"Denville",
+      "street":"PO Box 212",
+      "city":"Mount Tabor",
       "state":"New Jersey",
-      "zip": "07834"
+      "zip": "07878"
     },
     "website": "http://www.jeffreyeggert.com",
     "resumedownload":"http://www.jeffreyeggert.com",
@@ -101,17 +100,42 @@
         "description":"Provide comprehensive system and end-user support of campus technology; configuration, maintenance, repair. Extend normal classroom and technology support by providing training for faculty users and students, and administration for Centenary College."
       }
     ],
+    "services":[
+      {
+        "name":"Computer Repair"
+      },
+      {
+        "name":"Web Development"
+      },
+      {
+        "name":"Application Development"  
+      }
+    ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%",
+        "level":"65%",
+        "types":[
+          "Source Control"
+        ]
+      },
+      {
+        "name":"Github",
+        "level":"65%",
         "types":[
           "Source Control"
         ]
       },
       {
         "name":"Illustrator",
-        "level":"55%",
+        "level":"70%",
+        "types":[
+          "Graphics"
+        ]
+      },
+      {
+        "name":"Photoshop",
+        "level":"70%",
         "types":[
           "Graphics"
         ]
@@ -120,24 +144,272 @@
         "name":"ReactJs",
         "level":"80%",
         "types:":[
-          "Scripting"
+          "Scripting Languages",
+          "Scripting Module"
         ]
       },
       {
         "name":"CSS",
-        "level":"90%",
+        "level":"85%",
         "types":[
-        
+          "Web Development"
         ]
-
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name":"HTML",
+        "level":"85%",
+        "types":[
+          "Web Development"
+        ]
       },
       {
         "name":"MongoDB",
-        "level":"80%"
+        "level":"70%",
+        "types":[
+          "Database"
+        ]
+      },
+      {
+        "name":"MySQL",
+        "level":"75%",
+        "types":[
+          "Database"
+        ]
+      },
+      {
+        "name":"MSSQL",
+        "level":"75%",
+        "types":[
+          "Database"
+        ]
+      },
+      {
+        "name":"PLSQL",
+        "level":"75%",
+        "types":[
+          "Database"
+        ]
+      },
+      {
+        "name":"Javascript",
+        "level":"80%",
+        "types":[
+          "Scripting Languages"
+        ]
+      },
+      {
+        "name":"NodeJs",
+        "level":"80%",
+        "types":[
+          "Scripting Engine", "Scripting Languages"
+        ]
+      },
+      {
+        "name":"Deno",
+        "level":"55%",
+        "types":[
+          "Scripting Engine", "Scripting Languages"
+        ]
+      },
+      {
+        "name":"Rhino",
+        "level":"90%",
+        "types":[
+          "Scripting Engine", "Scripting Languages"
+        ]
+      },
+      {
+        "name":"VBscript",
+        "level":"60%",
+        "types":[
+          "Scripting Languages"
+        ]
+      },
+      {
+        "name":"Bash",
+        "level":"80%",
+        "types":[
+          "Scripting Languages"
+        ]
+      },
+      {
+        "name":"Typescript",
+        "level":"70%",
+        "types":[
+          "Scripting Languages"
+        ]
+      },
+      {
+        "name":"AngularJs",
+        "level":"50%",
+        "types":[
+          "Scripting Languages",
+          "Scripting Module"
+        ]
+      },
+      {
+        "name":"jQuery",
+        "level":"70%",
+        "types":[
+          "Scripting Languages",
+          "Scripting Module"
+        ]
+      },
+      {
+        "name":"NPM",
+        "level":"75%",
+        "types":[
+          "Package Manager"
+        ]
+      },
+      {
+        "name":"Python3",
+        "level":"50%",
+        "types":[
+          "Scripting Languages"
+        ]
+      },
+      {
+        "name":"PowerShell",
+        "level":"80%",
+        "types":[
+          "Scripting Languages"
+        ]
+      },
+      {
+        "name":"Groovy",
+        "level":"50%",
+        "types":[
+          "Scripting Languages"
+        ]
+      },
+      {
+        "name":"JIRA",
+        "level":"90%",
+        "types":[
+          "Atlassian",
+          "Project Management"
+        ]
+      },
+      {
+        "name":"Confluence",
+        "level":"90%",
+        "types":[
+          "Atlassian",
+          "Documentation"
+        ]
+      },
+      {
+        "name":"Bitbucket",
+        "level":"85%",
+        "types":[
+          "Source Control",
+          "Atlassian"
+        ]
+      },
+      {
+        "name":"C++",
+        "level":"40%",
+        "types":[
+          "Compiled"
+        ]
+      },
+      {
+        "name":"C#",
+        "level":"60%",
+        "types":[
+          "Compiled"
+        ]
+      },
+      {
+        "name":"JAVA",
+        "level":"70%",
+        "types":[
+          "Compiled"
+        ]
+      },
+      {
+        "name":"Windows",
+        "level":"90%",
+        "types":[
+          "Operating Systems"
+        ]
+      },
+      {
+        "name":"Unix",
+        "level":"75%",
+        "types":[
+          "Operating Systems"
+        ]
+      },
+      {
+        "name":"Linux",
+        "level":"75%",
+        "types":[
+          "Operating Systems"
+        ]
+      },
+      {
+        "name":"Docker",
+        "level":"55%"
+      },
+      {
+        "name":"Jenkins",
+        "level":"65%",
+        "types":[
+          "Automation Engine"
+        ]
+      },
+      {
+        "name":"Artifactory",
+        "level":"50%",
+        "types":[
+          "Automation Engine"
+        ]
+      },
+      {
+        "name":"Bamboo",
+        "level":"50%",
+        "types":[
+          "Automation Engine"
+        ]
+      },
+      {
+        "name":"Maven",
+        "level":"50%",
+        "types":[
+          "Automation Engine"
+        ]
+      },
+      {
+        "name":"Team Foundation Server",
+        "level":"70%",
+        "types":[
+          "Project Management"
+        ]
+      },
+      {
+        "name":"VMWARE",
+        "level":"65%",
+        "types":[
+          "virtualization"
+        ]
+      },
+      {
+        "name":"Azure",
+        "level":"60%",
+        "types":[
+          "Virtualization",
+          "Cloud"
+        ]
+      },
+      {
+        "name":"Amazon Web Services",
+        "level":"60%",
+        "types":[
+          "virtualization",
+          "Cloud"
+        ]
       }
     ]
   },
